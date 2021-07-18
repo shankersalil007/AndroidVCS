@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidVCS</string>
+    <string name="greetings">Hello World!</string>
 </resources>
